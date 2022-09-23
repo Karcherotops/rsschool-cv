@@ -22,6 +22,7 @@ function duplicateEncode(word){
 ```
 ## Education
 * Courses:
+    * CS 50(watch lection on YouTube) 
     * JS/FE Pre-School 2022(JavaScript) 
     * HTML Academy
 ## English
