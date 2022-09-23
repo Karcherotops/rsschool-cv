@@ -5,7 +5,7 @@
 * __Email__: lexxsmc@gmail.com, lexxsmc@yandex.ru
 * __GitHub__: Karcherotops
 ## About me
-My main quality is the desire to learn. I am ready to work in a team and work together to achieve my goals. I wish to change my life, but I understand that it is impossible without effort. And I am ready to attach them
+My main quality is the desire to learn. I am ready to work in a team and work together to achieve my goals. I wish to change my life, but I understand that it is impossible without effort. And I am ready to attach them. I live in criminal state and wish leave in country where freedom inviolable.
 ## Skils 
 * HTML
 * CSS
